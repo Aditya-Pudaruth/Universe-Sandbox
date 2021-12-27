@@ -1,5 +1,5 @@
 Project: A moving blob with a galazy texture in the middle of a warped space 
-Contains a dmatrix of fixed stars and moving stars that goes right into the blob
+Contains a matrix of fixed stars and moving stars that goes right into the blob
 !Important-Controls: zoom in and out, pan control
 
 Implementation:
@@ -17,5 +17,3 @@ Difficulties : both blob animation and stars movement. Trial and error on the nu
 
 reflection mapping tutorial: https://www.youtube.com/watch?v=aJun0Q0CG_A
 warp effect: https://www.youtube.com/watch?v=Bed1z7f1EI4
-
-Posting: I don't know if this is good enough to post yet
